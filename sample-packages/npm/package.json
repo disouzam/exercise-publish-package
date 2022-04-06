@@ -1,3 +1,10 @@
 {
-  "your": "json config here"
+  "name": "publish-a-npm-package-github-challenge",
+  "version": "1.0.0",
+  "description": "Testing publishing a package from inside GitHub",
+  "main": "index.js",
+  "repository": "https://github.com/disouzam/exercise-publish-package",
+  "license": "MIT",
+  "author": "disouzam",
+  "dependencies": {}
 }
