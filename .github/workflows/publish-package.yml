@@ -17,4 +17,4 @@ jobs:
       - uses: JS-DevTools/npm-publish@v1
         with:
           token: ${{ secrets.packagetoken }}
-          registry: https://npm.pkg.github.com
+          registry: https://npm.pkg.github.com/disouzam
