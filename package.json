@@ -6,5 +6,8 @@
   "repository": "https://github.com/disouzam/exercise-publish-package",
   "license": "MIT",
   "author": "disouzam",
-  "dependencies": {}
+  "dependencies": {},
+  "publishConfig":{
+    "registry": "https://npm.pkg.github.com/disouzam"
+  }
 }
